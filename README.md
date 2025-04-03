@@ -63,10 +63,6 @@ Enter due date (YYYY-MM-DD): 2025-04-10
 Task added successfully!
 ```
 
-## Future Enhancements
-- Implement dynamic stacks using linked lists.
-- Add file handling to save and retrieve tasks.
-- Introduce priority-based task management.
 
 ## License
 This project is released under the MIT License.
